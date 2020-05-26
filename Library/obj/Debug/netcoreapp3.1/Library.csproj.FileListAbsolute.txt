@@ -1,0 +1,13 @@
+F:\.Net Programs\Lab Iterators and Comparators\Library\bin\Debug\netcoreapp3.1\Library.exe
+F:\.Net Programs\Lab Iterators and Comparators\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+F:\.Net Programs\Lab Iterators and Comparators\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+F:\.Net Programs\Lab Iterators and Comparators\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+F:\.Net Programs\Lab Iterators and Comparators\Library\bin\Debug\netcoreapp3.1\Library.dll
+F:\.Net Programs\Lab Iterators and Comparators\Library\bin\Debug\netcoreapp3.1\Library.pdb
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.dll
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.pdb
+F:\.Net Programs\Lab Iterators and Comparators\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache

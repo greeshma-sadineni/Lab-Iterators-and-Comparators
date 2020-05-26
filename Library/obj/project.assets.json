@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.Net Programs\\Lab Iterators and Comparators\\Lab Iterators and Comparators\\Lab Iterators and Comparators.csproj",
-      "projectName": "Lab Iterators and Comparators",
-      "projectPath": "F:\\.Net Programs\\Lab Iterators and Comparators\\Lab Iterators and Comparators\\Lab Iterators and Comparators.csproj",
+      "projectUniqueName": "F:\\.Net Programs\\Lab Iterators and Comparators\\Library\\Library.csproj",
+      "projectName": "Library",
+      "projectPath": "F:\\.Net Programs\\Lab Iterators and Comparators\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\91970\\.nuget\\packages\\",
-      "outputPath": "F:\\.Net Programs\\Lab Iterators and Comparators\\Lab Iterators and Comparators\\obj\\",
+      "outputPath": "F:\\.Net Programs\\Lab Iterators and Comparators\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\91970\\AppData\\Roaming\\NuGet\\NuGet.Config",
